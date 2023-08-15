@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I have extensive experience using data-driven insights to improve business performance and optimize operations. I specialize in data visualization, statistical analysis, and performance modelling, and I am highly skilled in transforming complex data into practical recommendations. My technical abilities include expertise in Microsoft Power BI, Tableau, SQL, Python, Azure, DAX, and statistical analysis. My focus is on delivering results that drive strategic decision-making and operational excellence.
 <!--
 **mickyansLK/mickyansLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
