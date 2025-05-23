@@ -1,15 +1,39 @@
-## Hi there 👋
-I have extensive experience using data-driven insights to improve business performance and optimize operations. I specialize in data visualization, statistical analysis, and performance modelling, and I am highly skilled in transforming complex data into practical recommendations. My technical abilities include expertise in Microsoft Power BI, Tableau, SQL, Python, Azure, DAX, and statistical analysis. My focus is on delivering results that drive strategic decision-making and operational excellence.
-<!--
-**mickyansLK/mickyansLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Michael Ansah
 
-Here are some ideas to get you started:
+## 🔍 About Me
+I’m a Data Engineer focused on designing scalable, production-ready data platforms that power decision-making and deliver measurable business value. I specialise in building robust ELT pipelines, integrating diverse data sources, and optimising data models for analytics.
 
-- 🔭 I’m currently working on personal portfolios and open-source projects
-- 🌱 I’m currently learning docs.microsoft.learn
-- 👯 I’m looking to collaborate on data visualizations projects and M.L algorithms
-- 🤔 I’m looking for help with very open-minded
-- 💬 Ask me about Net Zero Emission projects
-- 😄 Pronouns: Him/He
-- ⚡ Fun fact: 
+## 🛠 Tech Stack
 
+**Languages & Tools:**  
+`Python`, `SQL`, `DAX`, `YAML`, `dbt`, `Apache Spark`, `Airflow`, `Prefect`
+
+**Cloud & Warehousing:**  
+`Azure`, `BigQuery`, `Microsoft Fabric`, `Azure Synapse`, `Delta Lake`
+
+**Visualization & BI:**  
+`Power BI`, `Tableau`, `Looker Studio`
+
+**Workflow Orchestration & DevOps:**  
+`Prefect`, `Airflow`, `GitHub Actions`, `Docker`, `CI/CD`
+
+## 🚀 Featured Projects
+
+- **Customer 360 ELT Pipeline**  
+  `GA4 + Bloomreach + Finance` → `dbt` models → `Power BI`  
+  [View project](https://github.com/mickyansLK/customer360)
+
+- **Streaming Ship Telemetry Platform**  
+  Real-time Kafka pipeline ingesting vessel data with Spark & DuckDB
+
+- **HR Analytics Platform**  
+  Gender equity & attrition modelling using Microsoft Fabric and dbt
+
+## 📫 Get in Touch
+
+- GitHub: [@mickyansLK](https://github.com/mickyansLK)
+- LinkedIn: [linkedin.com/in/michael-ansah](https://linkedin.com/in/michael-ansah)
+
+---
+
+> 🎯 Always looking to connect on impactful data engineering challenges or AI-ready infrastructure projects.
