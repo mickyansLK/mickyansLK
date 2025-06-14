@@ -32,7 +32,7 @@ I’m a Data Engineer focused on designing scalable, production-ready data platf
 ## 📫 Get in Touch
 
 - GitHub: [@mickyansLK](https://github.com/mickyansLK)
-- LinkedIn: [linkedin.com/in/michael-ansah](https://linkedin.com/in/michael-ansah-data)
+- LinkedIn: [Ansah](https://linkedin.com/in/michael-ansah-data)
 
 ---
 
