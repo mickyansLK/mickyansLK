@@ -20,7 +20,7 @@ I’m a Data Engineer focused on designing scalable, production-ready data platf
 ## 🚀 Featured Projects
 
 - **Customer 360 ELT Pipeline**  
-  `GA4 + Bloomreach + Finance` → `dbt` models → `Power BI`  
+  `GA4 + Bloomreach + Finance` → `ADF` → `Snowflake` → `dbt` models → `Power BI`  
   [View project](https://github.com/mickyansLK/customer360)
 
 - **Streaming Ship Telemetry Platform**  
