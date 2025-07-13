@@ -1,21 +1,21 @@
 # 👋 Hi, I’m Michael Ansah
 
 ## 🔍 About Me
-I’m a Data Engineer focused on designing scalable, production-ready data platforms that power decision-making and deliver measurable business value. I specialise in building robust ELT pipelines, integrating diverse data sources, and optimising data models for analytics.
+I focus on designing scalable, production-ready data platforms that power decision-making and deliver measurable business value. I specialise in building robust ELT/ETL pipelines, integrating diverse data sources, and optimising data models for analytics.
 
 ## 🛠 Tech Stack
 
 **Languages & Tools:**  
-`Python`, `SQL`, `DAX`, `YAML`, `dbt`, `Apache Spark`, `Airflow`, `Prefect`
+`Python`, `SQL`, `YAML`, `dbt`, `Apache Spark` 
 
 **Cloud & Warehousing:**  
-`Azure`, `BigQuery`, `Microsoft Fabric`, `Azure Synapse`, `Delta Lake`
+`Azure`, `Snowflake`, `BigQuery`, `Microsoft Fabric`, `Azure Synapse`, `Delta Lake`
 
 **Visualization & BI:**  
 `Power BI`, `Tableau`, `Looker Studio`
 
 **Workflow Orchestration & DevOps:**  
-`Prefect`, `Airflow`, `GitHub Actions`, `Docker`, `CI/CD`
+`Prefect`, `Airflow`, `GitHub Actions`, `Docker`, `CI/CD`, `Kubernetes`
 
 ## 🚀 Featured Projects
 
