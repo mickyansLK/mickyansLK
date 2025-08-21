@@ -9,7 +9,7 @@ I focus on designing scalable, production-ready data platforms that power decisi
 `Python`, `SQL`, `YAML`, `dbt`, `Apache Spark` 
 
 **Cloud & Warehousing:**  
-`Azure`, `Snowflake`, `BigQuery`, `Microsoft Fabric`, `Azure Synapse`, `Delta Lake`
+`Databricks`, `Snowflake`, `BigQuery`, `Microsoft Fabric`, `Azure Synapse`
 
 **Visualization & BI:**  
 `Power BI`, `Tableau`, `Looker Studio`
