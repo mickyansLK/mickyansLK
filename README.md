@@ -11,7 +11,7 @@ Here are a few core projects that demonstrate my skills and impact:
 
 ### Customer 360 ELT Pipeline
 **Summary:** Built ELT pipelines integrating GA4, Bloomreach, and finance data into BigQuery with dbt transformations.  
-**Business Value:** Enabled unified analytics for marketing and finance teams, reducing data latency by X% and improving cross-domain reporting accuracy.  
+**Business Value:** Enabled unified analytics platform for cross functional teams, reducing data latency and improving cross-domain reporting accuracy.  
 **Technologies:** Python, BigQuery, dbt, Power BI  
 **Repo:** github.com/mickyansLK/customer_360
 
@@ -21,11 +21,6 @@ Here are a few core projects that demonstrate my skills and impact:
 **Tech:** Kafka, Spark, DuckDB, Python  
 **Repo:** github.com/mickyansLK/ship-telemetry-project
 
-### HR Analytics Platform
-**Summary:** Built workforce gender equity and attrition models using Microsoft Fabric + dbt.  
-**Value:** Provided HR teams with actionable insights to influence retention strategies.  
-**Tech:** Microsoft Fabric, dbt, Python  
-**Repo:** *link*
 
 ## Contact
 📫 LinkedIn: linkedin.com/in/michael-ansah-data  
