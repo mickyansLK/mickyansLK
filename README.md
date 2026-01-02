@@ -1,39 +1,34 @@
 # 👋 Hi, I’m Michael Ansah
 
-## 🔍 About Me
-I focus on designing scalable, production-ready data platforms that power decision-making and deliver measurable business value. I specialise in building robust ELT/ETL pipelines, integrating diverse data sources, and optimising data models for analytics.
+## About Me
+I’m a Data Engineer specialising in scalable, production-grade ELT/ETL pipelines, data modelling, and analytics infrastructure that deliver measurable business value
 
-## 🛠 Tech Stack
+## Tech Stack
+Python · SQL · dbt · Apache Spark · Prefect · Airflow · BigQuery · Snowflake · Databricks · Microsoft Fabric · Power BI · Tableau · GitHub Actions · Docker · CI/CD
 
-**Languages & Tools:**  
-`Python`, `SQL`, `YAML`, `dbt`, `Apache Spark` 
+## Select Highlighted Projects
+Here are a few core projects that demonstrate my skills and impact:
 
-**Cloud & Warehousing:**  
-`Databricks`, `Snowflake`, `BigQuery`, `Microsoft Fabric`, `Azure Synapse`
+### Customer 360 ELT Pipeline
+**Summary:** Built ELT pipelines integrating GA4, Bloomreach, and finance data into BigQuery with dbt transformations.  
+**Business Value:** Enabled unified analytics for marketing and finance teams, reducing data latency by X% and improving cross-domain reporting accuracy.  
+**Technologies:** Python, BigQuery, dbt, Power BI  
+**Repo:** github.com/mickyansLK/customer_360
 
-**Visualization & BI:**  
-`Power BI`, `Tableau`, `Looker Studio`
+### Streaming Ship Telemetry Platform
+**Summary:** Real-time data ingestion pipeline for vessel telemetry using Kafka and Spark, with persistence in DuckDB.  
+**Business Value:** Supported streaming analytics with sub-second latency for operational dashboards.  
+**Tech:** Kafka, Spark, DuckDB, Python  
+**Repo:** github.com/mickyansLK/ship-telemetry-project
 
-**Workflow Orchestration & DevOps:**  
-`Prefect`, `Airflow`, `GitHub Actions`, `Docker`, `CI/CD`, `Kubernetes`
+### HR Analytics Platform
+**Summary:** Built workforce gender equity and attrition models using Microsoft Fabric + dbt.  
+**Value:** Provided HR teams with actionable insights to influence retention strategies.  
+**Tech:** Microsoft Fabric, dbt, Python  
+**Repo:** *link*
 
-## 🚀 Featured Projects
+## Contact
+📫 LinkedIn: linkedin.com/in/michael-ansah-data  
 
-- **Customer 360 ELT Pipeline**  
-  `GA4 + Bloomreach + Finance`  → `Big Query(GCP)` → `dbt` models → `Power BI`  
-  [View project](https://github.com/mickyansLK/customer360)
-
-- **Streaming Ship Telemetry Platform**  
-  Real-time Kafka pipeline ingesting vessel data with Spark & DuckDB
-
-- **HR Analytics Platform**  
-  Gender equity & attrition modelling using Microsoft Fabric and dbt
-
-## 📫 Get in Touch
-
-- GitHub: [@mickyansLK](https://github.com/mickyansLK)
-- LinkedIn: [Ansah](https://linkedin.com/in/michael-ansah-data)
-
----
 
 > 🎯 Always looking to connect on impactful data engineering challenges or AI-ready infrastructure projects.
