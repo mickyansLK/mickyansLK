@@ -1,94 +1,90 @@
+# Hi, I'm Michael Ansah 👋
 
-# Hi, I’m Michael Ansah 👋
+**Senior Data Engineer · London, UK**
 
-## About Me
-I’m a **Data Engineer** specialising in building **scalable, production-grade ELT/ETL pipelines**, robust **data models**, and **analytics infrastructure** that deliver measurable business value.
+I build production-grade data platforms that turn fragmented operational data into reliable, analytics-ready infrastructure — across energy, government, maritime, insurance, and advertising sectors.
 
-My work focuses on transforming raw, fragmented data into **reliable, analytics-ready datasets** that enable decision-making across marketing, finance, and operations.
-
-I enjoy working across the full data lifecycle — from ingestion and orchestration to modelling, analytics, and stakeholder enablement.
+Currently delivering **IoT telemetry pipelines** for battery energy storage systems and **Data integrations**.
 
 ---
 
-## Tech Stack
-**Languages:** Python, SQL  
-**Data Engineering:** dbt, Apache Spark, Kafka, Prefect, Airflow  
-**Data Platforms:** BigQuery, Snowflake, Databricks, Microsoft Fabric  
-**Analytics & BI:** Power BI, Tableau  
-**DevOps & Tooling:** Docker, GitHub Actions, CI/CD  
+## 🔢 By the numbers
+
+| 5+ | 42 | 3 |
+|---|---|---|
+| Sectors delivered | BESS sites instrumented | Portfolio projects |
 
 ---
 
-## Select Highlighted Projects
-A selection of end-to-end data engineering projects demonstrating real-world use cases, production-ready design, and business impact.
+## ⚡ Tech Stack
+
+**Languages**
+`Python` `SQL` `Bash`
+
+**Data Engineering**
+`dbt` `Apache Spark` `Kafka` `Airflow` `Prefect`
+
+**Platforms**
+`Databricks` `Microsoft Fabric` `BigQuery` `Snowflake`
+
+**Cloud & DevOps**
+`Azure` `AWS` `Docker` `GitHub Actions` `CI/CD` `Azure DevOps`
+
+**Analytics & BI**
+`Power BI` `Tableau`
 
 ---
 
-### Customer 360 ELT Pipeline
-**Summary:**  
-Designed and built a scalable ELT platform integrating GA4, Bloomreach, and financial data into BigQuery, with analytics-ready transformations managed using dbt.
+## 🗂️ Portfolio Projects
 
-**Business Value:**  
-Delivered a unified customer view for marketing and finance teams, enabling consistent cross-domain reporting and reducing data latency for downstream analytics.
+### 🔷 [Customer 360 ELT Pipeline](https://github.com/mickyansLK/customer_360)
 
-**What I Did:**  
-- Built ingestion pipelines using Python  
-- Modelled analytics-ready datasets with dbt  
-- Enabled self-service reporting via Power BI  
+Unified GA4, Bloomreach, and financial data into BigQuery with dbt-managed transformations. Delivered a consistent cross-domain customer view for marketing and finance teams, reducing data latency for downstream analytics.
 
-**Technologies:** Python, BigQuery, dbt, Power BI  
-**Repository:** https://github.com/mickyansLK/customer_360  
+**Stack:** `Python` `BigQuery` `dbt` `Power BI`
+**Impact:** Enabled self-service reporting · Reduced data latency
 
 ---
 
-### Streaming Ship Telemetry Platform
-**Summary:**  
-Implemented a real-time data ingestion and processing pipeline for vessel telemetry using Kafka and Spark, with analytical storage in DuckDB.
+### 🔷 [Streaming Ship Telemetry Platform](https://github.com/mickyansLK/ship-telemetry-project)
 
-**Business Value:**  
-Enabled near real-time operational monitoring and analytics, supporting faster insight into vessel performance and behavioural patterns.
+Real-time vessel telemetry ingestion pipeline using Kafka and Spark Structured Streaming, with analytical storage in DuckDB. Enabled near real-time operational monitoring and insight into vessel performance.
 
-**What I Did:**  
-- Designed a streaming ingestion architecture  
-- Processed high-velocity event data with Apache Spark  
-- Optimised analytical queries using DuckDB  
-
-**Technologies:** Kafka, Apache Spark, DuckDB, Python  
-**Repository:** https://github.com/mickyansLK/ship-telemetry-project  
+**Stack:** `Kafka` `Apache Spark` `DuckDB` `Python`
+**Impact:** Near real-time monitoring · Faster vessel performance insight
 
 ---
 
-### Insurance Analytics & Policy Data Platform
-**Summary:**  
-Built an end-to-end analytics platform for insurance policy, claims, and customer data, transforming raw operational datasets into analytics-ready models.
+### 🔷 [Insurance Analytics & Policy Data Platform](https://github.com/mickyansLK/insure_4_all)
 
-**Business Value:**  
-Improved visibility into policy performance and claims trends, supporting data-driven underwriting, pricing, and risk assessment decisions.
+End-to-end analytics platform modelling policy, claims, and customer data. Transformation logic managed in dbt, with BI dashboards supporting underwriting, pricing, and risk decisions.
 
-**What I Did:**  
-- Modelled core insurance entities (policies, claims, customers)  
-- Implemented transformation logic using dbt  
-- Enabled reporting and insight generation through BI dashboards  
-
-**Technologies:** Python, SQL, dbt, BigQuery, Power BI  
-**Repository:** https://github.com/mickyansLK/insure_4_all
+**Stack:** `Python` `SQL` `dbt` `BigQuery` `Power BI`
+**Impact:** Improved claims visibility · Enabled data-driven underwriting
 
 ---
 
-## How I Work
-- Focus on **clarity, reliability, and scalability**  
-- Strong emphasis on **data modelling and analytics enablement**  
-- Prefer **simple, well-documented architectures** over unnecessary complexity  
-- Build with both **engineers and business users** in mind  
+## 🧭 How I work
+
+- Focused on **clarity, reliability, and scalability** — not complexity for its own sake
+- Strong emphasis on **data modelling** and enabling business users to self-serve
+- Comfortable across the full stack: ingestion, orchestration, modelling, analytics, and stakeholder enablement
+- Experienced writing formal technical documentation: HLDs, LLDs, BDRs, TDDs, ADRs
 
 ---
 
-## Contact
-📫 **LinkedIn:** https://linkedin.com/in/michael-ansah-data  
-📍 **Location:** London, UK  
-📌 **Open to:** Data Engineering & Analytics Infrastructure roles  
+## 📊 GitHub Stats
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickyansLK&show_icons=true&hide_border=true&count_private=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickyansLK&layout=compact&hide_border=true&theme=default)
 
 ---
 
-*This GitHub profile is intended to function as a living portfolio — showcasing not just code, but how data engineering creates business impact.*
+## 📫 Contact
 
+- **LinkedIn:** [linkedin.com/in/michael-ansah-data](https://linkedin.com/in/michael-ansah-data)
+- **Location:** London, UK
+- **Status:** 🟢 Open to Data Engineering & Analytics Infrastructure roles
+
+---
