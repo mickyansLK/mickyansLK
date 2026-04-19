@@ -28,7 +28,7 @@ Currently delivering **IoT telemetry pipelines** for battery energy storage syst
 `Databricks` `Microsoft Fabric` `BigQuery` `Snowflake`
 
 **Cloud & DevOps**
-`Azure` `AWS` `Docker` `GitHub Actions` `CI/CD` `Azure DevOps`
+`Azure` `AWS` `Terraform` `Docker` `GitHub Actions` `CI/CD` `Azure DevOps`
 
 **Analytics & BI**
 `Power BI` `Tableau`
